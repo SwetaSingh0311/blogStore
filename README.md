@@ -1,2 +1,2 @@
 # blogStore
-#azure link https://github.com/SwetaSingh0311/blogStore/actions
+# azure link https://lemon-cliff-0345e8910.2.azurestaticapps.net/
